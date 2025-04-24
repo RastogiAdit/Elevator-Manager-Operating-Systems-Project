@@ -50,7 +50,7 @@ This typically indicates an issue with the number of message queues on your syst
 
 The following results were obtained by running the simulation on a Macbook Pro M1 (2020):
 
-| Testcase | Time(sec) | Tasks | Elevators Movements | Total Passengers |
+| Testcase | Time(sec) | Turns | Elevators Movements | Total Passengers |
 | :------- | :-------- | :---- | :-----------------  | :--------------  |
 | 1        | 0.006662  | 10    | 9                   | 3                | 
 | 2        | 0.513595  | 237   | 1733                | 100              |
